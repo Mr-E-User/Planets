@@ -22,4 +22,4 @@ Click on the screen to place a planet with the current configurations and watch 
 - Pressing `space` will toggle on/off the visualization of the acceleration/velocity vectors of each planet
 
 ## Video Example
-![](Screen Recording 2025-10-12 161607.mp4)
+![screen_recording_planets]("Screen Recording/screen_recording_planets.gif")
