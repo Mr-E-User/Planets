@@ -2,7 +2,7 @@
 _Note: running this script requires SFML 2.6.1 to be linked_
 
 ## Overview
-Click on the screen to place a planet with the current configurations and watch the free-bodies interact. The code certainly isn't perfect, but it was a means for me to start learning C++ in high school.
+Click on the screen to place a planet with the current configurations and watch the free-bodies interact. The code certainly isn't perfect, but it was a means for me to start learning C++ in high school _and is no longer reflective of my current C++ skill level_.
 
 ## List of Planet's Controllable Settings:
 - Stationary/Moveable: toggled on/off by pressing `t`
